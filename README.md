@@ -1,4 +1,7 @@
-E-Commerce Profitability Analysis Case Study
+This is a Data Analytics Project on Ecommerce Profitability 
+Analysis of an Ecommerce Company 
+E-Commerce Profitability Analysis Case Study where South Region contributes to 
+25.14% of Sales,electronics category has 31.4% of Profit with negative trendline of Sales
 
 Business Problem:
 An e-commerce company has high sales but inconsistent profits. Management wants to understand:
